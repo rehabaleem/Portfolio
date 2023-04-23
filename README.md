@@ -1,3 +1,4 @@
 # Portfolio
-Dpe program task 
-<h3>Digital Pathways For Employment - DPE program<h3/>
+Dpe task 
+<h3>Digital Pathways For Employment<h3/>
+responsive portfolio using html and pure css
